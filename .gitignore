@@ -1,0 +1,30 @@
+# Build and IDE folders
+/out/
+/bin/
+/dist/
+/target/
+/build/
+.idea/
+*.iml
+*.iws
+
+# Eclipse files
+.classpath
+.project
+.settings
+.factorypath
+
+# NetBeans files
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Other files
+.vscode/
+*.log
+*.log.*
+
+# Operating System files
+.DS_Store
+Thumbs.db
