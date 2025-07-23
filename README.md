@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 🗺️ City Tour Planner with Dynamic Programming
 
 This project implements a **Dynamic Programming (DP)** approach to optimize city tour planning for tourists. The aim is to determine the most enjoyable tour path by considering various dynamic factors.
