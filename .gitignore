@@ -25,6 +25,6 @@
 *.log
 *.log.*
 
-# Operating System filess
+# Operating System files
 .DS_Store
 Thumbs.db
